@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+body{
+	background-color:#a164df;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding:0;
+	margin:0;
+	height:100vh;
+}
+
+
+button{
+	background-color:#663399;
+	border:none;
+	color:white;	
+	padding:10px;
+	margin-right:5px;
+	border-radius:3px;
+}
